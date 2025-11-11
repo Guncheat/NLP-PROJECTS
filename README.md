@@ -11,8 +11,8 @@ O diferencial deste repositório é que todos os projetos foram desenvolvidos e 
 
 ---
 
-## 🚀 Projetos Incluídos
-
+%## 🚀 Projetos Incluídos
+%%
 Aqui você pode listar os projetos. Seja descritivo.
 
 * **Projeto 1: Análise de Sentimentos de Tweets**
