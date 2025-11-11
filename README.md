@@ -11,30 +11,6 @@ O diferencial deste repositório é que todos os projetos foram desenvolvidos e 
 
 ---
 
-%## 🚀 Projetos Incluídos
-%%
-Aqui você pode listar os projetos. Seja descritivo.
-
-* **Projeto 1: Análise de Sentimentos de Tweets**
-    * **Descrição:** Um modelo de NLP que classifica tweets como positivos, negativos ou neutros.
-    * **Tecnologias:** NLTK, Scikit-learn, Regressão Logística.
-    * **Visualização:** Dashboard no Streamlit mostrando a distribuição dos sentimentos e permitindo teste com novas frases.
-    * **Notebook:** `[Link_para_seu_notebook_1.ipynb]`
-
-* **Projeto 2: Sistema de Recomendação de Filmes**
-    * **Descrição:** Um sistema de recomendação baseado em conteúdo (content-based filtering).
-    * **Tecnologias:** Pandas, Scikit-learn (TfidfVectorizer, cosine_similarity).
-    * **Visualização:** Interface no Streamlit onde você digita o nome de um filme e recebe 10 recomendações.
-    * **Notebook:** `[Link_para_seu_notebook_2.ipynb]`
-
-* **Projeto 3: [Seu Próximo Projeto]**
-    * **Descrição:** [Descreva o que ele faz]
-    * **Tecnologias:** [Tecnologias usadas]
-    * **Visualização:** [Descreva o dashboard]
-    * **Notebook:** `[Link_para_seu_notebook_3.ipynb]`
-
----
-
 ## 🛠️ Como Executar (Instruções Cruciais)
 
 Estes projetos **não** devem ser executados localmente da forma tradicional (`streamlit run app.py`) sem adaptação. Eles foram criados para rodar no Google Colab.
