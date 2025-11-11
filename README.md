@@ -59,8 +59,8 @@ Se você **realmente** quiser rodar estes projetos localmente, você precisará 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO-GITHUB]/[SEU-REPOSITORIO].git
-    cd [SEU-REPOSITORIO]
+    git clone [https://github.com/](https://github.com/)[Guncheat]/[PYTHON-NLP-PROJECTS].git
+    cd [PYTHON-NLP-PROJECTS]
     ```
 2.  **Crie um ambiente virtual:**
     ```bash
@@ -68,7 +68,7 @@ Se você **realmente** quiser rodar estes projetos localmente, você precisará 
     source venv/bin/activate  # No Windows: venv\Scripts\activate
     ```
 3.  **Instale as dependências:**
-    (Você deve criar um arquivo `requirements.txt` com todas as bibliotecas usadas)
+    (Ainda está em construção dessa por isso não foi criado ainda o arquivo requeriments de cada um dos scripts)
     ```bash
     pip install -r requirements.txt
     ```
